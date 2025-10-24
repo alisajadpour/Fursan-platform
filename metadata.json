@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Global News Verifier & Graph",
+  "description": "An AI-powered application to stream, visualize connections in, and fact-check global news stories using Gemini. It provides a dynamic graph of news topics and entities, and verifies articles against web sources.",
+  "requestFramePermissions": []
+}
